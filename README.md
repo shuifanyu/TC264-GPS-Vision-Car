@@ -73,10 +73,10 @@ TC264-GPS-Vision-Car/
 
 ## 说明
 
-- 本仓库整理自课程/竞赛工程，去除 ADS `.metadata` 与 `Debug` 编译产物，便于公开与阅读。
+- 本仓库整理竞赛工程，去除 ADS `.metadata` 与 `Debug` 编译产物，便于阅读。
 - 更完整的设计说明、踩坑记录见 `docs/project-intro-zh.md`。
 - 基于逐飞开源库二次开发，请遵循其 **GPL-3.0** 协议。
 
 ## 作者
 
-简历项目负责人 / 软件核心 · GitHub 简历位可挂本仓库链接
+shuifanyu / 软件核心 · GitHub 
