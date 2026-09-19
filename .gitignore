@@ -1,0 +1,25 @@
+# ADS / Eclipse workspace
+**/Debug/
+**/.metadata/
+**/settings/language.settings.xml
+*.lock
+
+# build artifacts
+*.o
+*.src
+*.d
+*.map
+*.elf
+*.hex
+*.lst
+*.iex
+*.axf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+# local secrets / logs
+*.log
